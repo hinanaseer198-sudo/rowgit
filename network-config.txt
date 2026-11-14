@@ -1,1 +1,1 @@
-Enviroment: developemnt
+Enviroment: staging
